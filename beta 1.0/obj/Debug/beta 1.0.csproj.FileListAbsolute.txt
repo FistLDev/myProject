@@ -1,0 +1,22 @@
+D:\projects\Forms\beta 1.0\bin\Debug\beta 1.0.exe.config
+D:\projects\Forms\beta 1.0\bin\Debug\beta 1.0.exe
+D:\projects\Forms\beta 1.0\bin\Debug\beta 1.0.pdb
+D:\projects\Forms\beta 1.0\obj\Debug\beta 1.0.csprojAssemblyReference.cache
+D:\projects\Forms\beta 1.0\obj\Debug\beta_1._0.Properties.Resources.resources
+D:\projects\Forms\beta 1.0\obj\Debug\beta 1.0.csproj.GenerateResource.cache
+D:\projects\Forms\beta 1.0\obj\Debug\beta 1.0.csproj.CoreCompileInputs.cache
+D:\projects\Forms\beta 1.0\obj\Debug\beta 1.0.exe
+D:\projects\Forms\beta 1.0\obj\Debug\beta 1.0.pdb
+D:\projects\Forms\beta 1.0\obj\Debug\beta_1._0.Registation.resources
+D:\projects\Forms\beta 1.0\obj\Debug\beta_1._0.First_window.resources
+D:\projects\Forms\beta 1.0\obj\Debug\beta_1._0.Sign_log_customer.resources
+D:\projects\Forms\beta 1.0\obj\Debug\beta_1._0.Very_first_window.resources
+D:\projects\Forms\beta 1.0\obj\Debug\beta_1._0.Signup_customer.resources
+D:\projects\Forms\beta 1.0\obj\Debug\beta_1._0.Verification.resources
+D:\projects\Forms\beta 1.0\obj\Debug\beta_1._0.Personal_acc_freelancer.resources
+D:\projects\Forms\beta 1.0\obj\Debug\beta_1._0.Login_customer.resources
+D:\projects\Forms\beta 1.0\obj\Debug\beta_1._0.Login_freelancer.resources
+D:\projects\Forms\beta 1.0\obj\Debug\beta_1._0.New_order_form.resources
+D:\projects\Forms\beta 1.0\obj\Debug\beta_1._0.Orders_in_execution.resources
+D:\projects\Forms\beta 1.0\obj\Debug\beta_1._0.Order_information.resources
+D:\projects\Forms\beta 1.0\obj\Debug\beta_1._0.Personal_acc_customer.resources
